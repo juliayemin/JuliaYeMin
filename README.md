@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thetsu Ye Min, Julia</h1>
-<h3 align="center">A passionate frontend developer from Bay Area, San Francisco, USA</h3>
+<h3 align="center">A passionate data analysis student from Bay Area, San Francisco, USA</h3>
 
 - 🔭 I’m currently working on [excel-challenge](https://drive.google.com/drive/folders/1bTlg1hOvPUNjXq3eqmx13TM41kJLBax9?usp=drive_link)
 
