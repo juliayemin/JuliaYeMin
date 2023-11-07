@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thetsu Ye Min, Julia</h1>
 <h3 align="center">A passionate data analysis student from Bay Area, San Francisco, USA</h3>
 
-- 🔭 I’m currently working on [Pands_Matplotlib_Numpy-challenge]
+- 🔭 I’m currently working on [SQL]
 
 - 🌱 I’m currently learning **Data Analysis BootCamp at UC Berkeley Extension**
 
