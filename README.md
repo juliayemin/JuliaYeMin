@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thetsu Ye Min, Julia</h1>
+<h1 align="center">Hi 👋, I'm Julia Min</h1>
+<h2 align="center">First Legal Name is Thetsu Ye... Just a bit challenging foreign name 😌 </h2>
 <h3 align="center">A passionate data analysis student from Bay Area, San Francisco, USA</h3>
 
 - 🔭 I’m currently working on Tableau
