@@ -2,9 +2,9 @@
 <h2 align="center">First Legal Name is Thetsu Ye... Just a bit challenging foreign name 😌 </h2>
 <h3 align="center">A passionate data analysis student from Bay Area, San Francisco, USA</h3>
 
-- 🔭 I’m currently working on Machine Learning
+- 🔭 I’m currently educating myself with ongoing self studies
 
-- 🌱 I’m currently learning **Data Analysis BootCamp at UC Berkeley Extension**
+- 🌱 I gratuated from **Data Analysis BootCamp at UC Berkeley Extension** in 2024.
 
 - 📫 How to reach me **juliathetsu@outlook.com**
 
